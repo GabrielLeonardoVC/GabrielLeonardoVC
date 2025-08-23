@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo(a) ao meu GitHub
 
-<!--
-**GabrielLeonardoVC/GabrielLeonardoVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Gabriel Leonardo Vicente Cancian** e sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia, lógica e soluções práticas para o mundo real.
 
-Here are some ideas to get you started:
+Aqui você encontrará meus projetos, estudos e experimentos envolvendo programação, redes, sistemas e muito mais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades e conhecimentos
+- Linguagens: **Python** e iniciando em **HTML**
+- Fundamentos: **Lógica de Programação** e **Algoritmo**
+- Outras áreas: **Arquitetura de Redes com IoT**, **Sistemas Operacionais**, **Levantamento de Requisitos**
+
+## 📚 Atualmente estudando
+- **Programação Back-End**
+- **Banco de Dados**
+- **Linguagens de Marcação**
+
+## 📬 Entre em contato comigo
+- 📧 E-mail: galevicn4@gmail.com  
+- 💼 [LinkedIn: Gabriel Leonardo Vicente Cancian](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)
