@@ -34,7 +34,6 @@ Sou apaixonado por tecnologia, lógica e por criar soluções práticas para os 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)**
 
 ---
-
 ## 🖋️ **Últimos Commits**
 
 ### 🌟 **Interação de Commits**
@@ -44,3 +43,4 @@ Você pode ver alguns dos meus últimos commits em projetos que estou desenvolve
 $ git commit -m "Adicionando novas funcionalidades ao projeto X"
 [main 34ab5d9] Adicionando novas funcionalidades ao projeto X
  1 file changed, 20 insertions(+), 5 deletions(-)
+
