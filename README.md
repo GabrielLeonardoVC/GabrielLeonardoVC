@@ -1,19 +1,27 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu GitHub
+👋 Olá! Seja bem-vindo(a) ao meu GitHub
 
-Meu nome é **Gabriel Leonardo Vicente Cancian** e sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia, lógica e soluções práticas para o mundo real.
+Meu nome é Gabriel Leonardo Vicente Cancian e sou estudante de Desenvolvimento de Sistemas no SENAI, atualmente cursando o 2º ano do Ensino Médio no SESI.
 
-Aqui você encontrará meus projetos, estudos e experimentos envolvendo programação, redes, sistemas e muito mais.
+Sou apaixonado por tecnologia, lógica e por desenvolver soluções práticas para desafios do mundo real. Aqui no meu GitHub, compartilho meus projetos, estudos e experimentos nas áreas de programação, redes, sistemas e muito mais.
 
-## 💻 Habilidades e conhecimentos
-- Linguagens: **Python** e iniciando em **HTML**
-- Fundamentos: **Lógica de Programação** e **Algoritmo**
-- Outras áreas: **Arquitetura de Redes com IoT**, **Sistemas Operacionais**, **Levantamento de Requisitos**
+💻 Habilidades e conhecimentos
 
-## 📚 Atualmente estudando
-- **Programação Back-End**
-- **Banco de Dados**
-- **Linguagens de Marcação**
+Linguagens: Python (nível intermediário) e HTML (em aprendizado)
 
-## 📬 Entre em contato comigo
-- 📧 E-mail: galevicn4@gmail.com  
-- 💼 [LinkedIn: Gabriel Leonardo Vicente Cancian](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)
+Fundamentos: Lógica de Programação e Algoritmos
+
+Outras áreas: Arquitetura de Redes com IoT, Sistemas Operacionais, Levantamento de Requisitos
+
+📚 Atualmente estudando
+
+Programação Back-End
+
+Banco de Dados
+
+Linguagens de Marcação (HTML, CSS)
+
+📬 Entre em contato comigo
+
+📧 E-mail: galevicn4@gmail.com
+
+💼 LinkedIn: Gabriel Leonardo Vicente Cancian
