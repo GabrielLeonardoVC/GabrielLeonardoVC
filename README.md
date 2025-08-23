@@ -2,7 +2,7 @@
 
 Meu nome é **Gabriel Leonardo Vicente Cancian** e sou estudante de **Desenvolvimento de Sistemas** no **SENAI**, além de cursar o **2º ano do Ensino Médio** no **SESI**.
 
-Sou apaixonado por tecnologia, lógica e por criar soluções práticas para os desafios do mundo real. Neste GitHub, compartilho meus projetos, estudos e experimentos nas áreas de **programação**, **redes**, **sistemas** e muito mais.
+Gosto muito de tecnologia, lógica e por criar soluções práticas para os desafios do mundo real. Neste GitHub, compartilho meus projetos, estudos e experimentos nas áreas de **programação**, **redes**, **sistemas** e muito mais.
 
 ---
 
