@@ -1,34 +1,64 @@
-# 👋 **Bem-vindo(a) ao meu GitHub!**
+# 👋 Olá, eu sou o Gabriel Leonardo
 
-Meu nome é **Gabriel Leonardo Vicente Cancian** e sou estudante de **Desenvolvimento de Sistemas** no **SENAI**, além de cursar o **2º ano do Ensino Médio** no **SESI**.
-
-Gosto muito de tecnologia, lógica e por criar soluções práticas para os desafios do mundo real. Neste GitHub, compartilho meus projetos, estudos e experimentos nas áreas de **programação**, **redes**, **sistemas** e muito mais.
-
----
-
-## 💻 **Habilidades e Conhecimentos**
-
-- **Linguagens:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  Python (nível intermediário) | HTML (em aprendizado)
-
-- **Fundamentos:**  
-  Lógica de Programação | Algoritmos
-
-- **Outras áreas:**  
-  Arquitetura de Redes com IoT | Sistemas Operacionais | Levantamento de Requisitos
+🎓 Estudante no SESI-SP e SENAI-SP  
+💻 Apaixonado por tecnologia, desenvolvimento e inovação  
+🚀 Sempre em constante aprendizado!
 
 ---
 
-## 📚 **Atualmente Estudando**
+## 🧠 Sobre mim
 
-- **Programação Back-End**
-- **Banco de Dados**
-- **Linguagens de Marcação** (HTML, CSS)
+- 🎓 Ensino Médio no SESI-SP  
+- 💻 Técnico em Desenvolvimento de Sistemas no SENAI-SP  
+- 🔍 Curioso, determinado e apaixonado por resolver problemas com código  
+- 🌍 Busco evoluir em cada projeto e contribuir com ideias que gerem impacto positivo  
 
 ---
 
-## 📬 **Entre em Contato**
+## 💼 Atualmente aprendendo e trabalhando com:
 
-- 📧 **E-mail:** galevicn4@gmail.com  
-- 💼 **[LinkedIn](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)**
+### 🌐 Desenvolvimento Web
+- HTML  
+- CSS  
+- JavaScript  
+
+### 🐍 Back-End
+- Python  
+
+### 🔧 Ferramentas
+- Git  
+- GitHub  
+
+📚 Participando de projetos práticos no curso do SENAI
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeonardo&show_icons=true&theme=github_dark&hide_title=false&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLeonardo&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 📱 Contato
+
+- 📧 Email: **galevicn4@gmail.com**  
+- 📞 Telefone: **+55 (11) 4507-55852**  
+- 💼 LinkedIn: [Gabriel Leonardo](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)  
+
+---
+
+✨ Obrigado por visitar meu perfil! Explore meus projetos e bora trocar ideias 🚀
