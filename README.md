@@ -55,9 +55,9 @@
 ## 📱 Contato
 
 - 📧 Email: **galevicn4@gmail.com**  
-- 📞 Telefone: **+55 (11) 4507-55852**  
+- 📞 Telefone: **+55 (11) 45075-5852**  
 - 💼 LinkedIn: [Gabriel Leonardo](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)  
 
 ---
 
-✨ Obrigado por visitar meu perfil! Explore meus projetos e bora trocar ideias 🚀
+Obrigado por visitar meu perfil! Explore meus projetos e bora trocar ideias 🚀
