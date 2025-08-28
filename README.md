@@ -47,7 +47,7 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeonardo&show_icons=true&theme=github_dark&hide_title=false&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeonardoVC&show_icons=true&theme=github_dark&hide_title=false&hide_border=true" />
 </p>
 
 ---
