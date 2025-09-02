@@ -1,10 +1,9 @@
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/2ded35ed-4aec-4948-8c71-811c8245399f" />
+👋 Olá, eu sou o Gabriel Leonardo
 
-                                                      👋 Olá, eu sou o Gabriel Leonardo
-
-                                                      🎓 Estudante no SESI-SP e SENAI-SP  
-                                                      💻 Apaixonado por tecnologia, desenvolvimento e inovação  
-                                                      🚀 Sempre em constante aprendizado!
+🎓 Estudante no SESI-SP e SENAI-SP  
+💻 Apaixonado por tecnologia, desenvolvimento e inovação  
+🚀 Sempre em constante aprendizado!
 
 ---
 
