@@ -50,7 +50,16 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
+  <!-- Estatísticas gerais -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeonardoVC&show_icons=true&theme=github_dark&hide_title=false&hide_border=true" />
+  
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLeonardoVC&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Streak de contribuições -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=GabrielLeonardoVC&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -64,4 +73,4 @@
 
 ---
 
-Obrigado por visitar meu perfil! Explore meus projetos e bora trocar ideias 🚀
+Obrigado por visitar meu perfil!🚀
