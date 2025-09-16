@@ -67,9 +67,10 @@
 ## 📱 Contato
 
 - 📧 Email: **[galevicn4@gmail.com](mailto:galevicn4@gmail.com)**  
-- 📞 Telefone: **+55 (11) 45075-5852**  
+- 📞 WhatsApp: [Clique para conversar](https://wa.me/5511450755852?text=Ol%C3%A1%20Gabriel%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20quero%20falar%20sobre%20projetos%21)
 - 💼 LinkedIn: [Gabriel Leonardo](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)  
 - 🌐 Portfólio/Projetos: [Meus Projetos](https://github.com/GabrielLeonardoVC?tab=repositories)  
+
 
 ---
 
