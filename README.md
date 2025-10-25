@@ -85,7 +85,7 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 
 ## 🤝 Vamos nos conectar!
 
-📧 **Email:** [galevicn4@gmail.com](galevicn4@gmail.com)  
+📧 **Email:** [galevicn4@gmail.com](https://mail.google.com/mail/?view=cm&to=galevicn4@gmail.com)
 💼 **LinkedIn:** [Gabriel Leonardo](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)  
 🌐 **Portfólio / Projetos:** [GitHub Repositórios](https://github.com/GabrielLeonardoVC?tab=repositories)  
 💬 **WhatsApp:** [Fale comigo aqui](https://wa.me/5511950755852?text=Ol%C3%A1%20Gabriel%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20quero%20falar%20sobre%20projetos%21)  
