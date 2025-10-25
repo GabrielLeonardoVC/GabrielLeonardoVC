@@ -21,19 +21,20 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 ## 💼 Atualmente aprendendo e trabalhando com:
 
 ### 🐍 **Back-End**
-- Python
+- [Python](https://www.python.org/)
 
 ### 🌐 **Front-End**
-- HTML 
-- CSS
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-### 🎲 **Banco de dados**
-- MySQL
-- XAMPP
+### 🎲 **Banco de Dados**
+- [MySQL](https://www.mysql.com/)
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 
 ### ⚙️ **Ferramentas**
-- Git & GitHub  
-- VS Code
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [VS Code](https://code.visualstudio.com/)
 
 📚 Participando ativamente de **projetos práticos** e **colaborativos** no curso do SENAI, explorando o ciclo completo de desenvolvimento de software.
 
@@ -42,12 +43,24 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
