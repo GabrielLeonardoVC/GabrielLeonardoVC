@@ -27,13 +27,13 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 - HTML 
 - CSS
 
-### ⚙️ **Ferramentas**
-- Git & GitHub  
-- VS Code
-
 ### 🎲 **Banco de dados**
 - MySQL
 - XAMPP
+
+### ⚙️ **Ferramentas**
+- Git & GitHub  
+- VS Code
 
 📚 Participando ativamente de **projetos práticos** e **colaborativos** no curso do SENAI, explorando o ciclo completo de desenvolvimento de software.
 
