@@ -1,37 +1,42 @@
 <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/2ded35ed-4aec-4948-8c71-811c8245399f" />
 
-# 👋 Olá, eu sou o Gabriel Leonardo  
+# 👋 Olá, eu sou o **Gabriel Leonardo**
 
-🎓 Estudante no SESI-SP e SENAI-SP  
-💻 Apaixonado por tecnologia, desenvolvimento e inovação  
-🚀 Sempre em constante aprendizado!
+🎓 Estudante do **SESI-SP** e **SENAI-SP**  
+💻 Apaixonado por **tecnologia, desenvolvimento e inovação**  
+🚀 Sempre em busca de **evoluir e aprender coisas novas!**
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Ensino Médio no **SESI-SP**  
-- 💻 Técnico em **Desenvolvimento de Sistemas no SENAI-SP**  
-- 🔍 Curioso, determinado e apaixonado por resolver problemas com código  
-- 🌍 Busco evoluir em cada projeto e contribuir com ideias que gerem impacto positivo  
+Sou um entusiasta da programação e da resolução de problemas por meio da tecnologia.  
+Atualmente, curso o **Ensino Médio no SESI-SP** e o **Técnico em Desenvolvimento de Sistemas no SENAI-SP**.  
+
+✨ Tenho interesse especial por **desenvolvimento web**, **automação com Python** e **projetos colaborativos**.  
+Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como pessoa.  
 
 ---
 
-## 💼 Atualmente aprendendo e trabalhando com:
+## 💼 Atualmente aprendendo e trabalhando com
 
-### 🌐 Desenvolvimento Web
-- HTML  
-- CSS  
+### 🌐 **Front-End**
+- HTML 
+- CSS
 - JavaScript  
 
-### 🐍 Back-End
-- Python  
+### 🐍 **Back-End**
+- Python
 
-### 🔧 Ferramentas
-- Git  
-- GitHub  
+### ⚙️ **Ferramentas**
+- Git & GitHub  
+- VS Code
 
-📚 Participando de projetos práticos no curso do **SENAI**  
+### 🎲 **Banco de dados**
+- MySQL
+- XAMPP
+
+📚 Participando ativamente de **projetos práticos** e **colaborativos** no curso do SENAI, explorando o ciclo completo de desenvolvimento de software.
 
 ---
 
@@ -48,22 +53,23 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeonardoVC&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeonardoVC&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLeonardoVC&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 📱 Contato
+## 🤝 Vamos nos conectar!
 
-- 📧 Email: **[galevicn4@gmail.com](mailto:galevicn4@gmail.com)**  
-- 💼 LinkedIn: [Gabriel Leonardo](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)  
-- 🌐 Portfólio/Projetos: [Meus Projetos](https://github.com/GabrielLeonardoVC?tab=repositories)  
-- 📞 WhatsApp: [Fale comigo aqui](https://wa.me/5511950755852?text=Ol%C3%A1%20Gabriel%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20quero%20falar%20sobre%20projetos%21)  
+📧 **Email:** [galevicn4@gmail.com](mailto:galevicn4@gmail.com)  
+💼 **LinkedIn:** [Gabriel Leonardo](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)  
+🌐 **Portfólio / Projetos:** [GitHub Repositórios](https://github.com/GabrielLeonardoVC?tab=repositories)  
+💬 **WhatsApp:** [Fale comigo aqui](https://wa.me/5511950755852?text=Ol%C3%A1%20Gabriel%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20quero%20falar%20sobre%20projetos%21)  
 
 ---
 
-✨ Obrigado por visitar meu perfil! 🚀
+✨ *Obrigado por visitar meu perfil!*  
+🧩 *Cada linha de código é uma nova oportunidade de aprendizado.* 🚀
