@@ -18,15 +18,14 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 
 ---
 
-## 💼 Atualmente aprendendo e trabalhando com
+## 💼 Atualmente aprendendo e trabalhando com:
+
+### 🐍 **Back-End**
+- Python
 
 ### 🌐 **Front-End**
 - HTML 
 - CSS
-- JavaScript  
-
-### 🐍 **Back-End**
-- Python
 
 ### ⚙️ **Ferramentas**
 - Git & GitHub  
