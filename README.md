@@ -24,16 +24,16 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 - [Python](https://www.python.org/)
 
 ### 🌐 **Front-End**
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 
 ### 🎲 **Banco de Dados**
-- [MySQL](https://www.mysql.com/)
-- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+- [MySQL](https://www.mysql.com/)  
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html)  
 
 ### ⚙️ **Ferramentas**
-- [Git](https://git-scm.com/)
-- [GitHub](https://github.com/)
+- [Git](https://git-scm.com/)  
+- [GitHub](https://github.com/)  
 - [VS Code](https://code.visualstudio.com/)
 
 📚 Participando ativamente de **projetos práticos** e **colaborativos** no curso do SENAI, explorando o ciclo completo de desenvolvimento de software.
@@ -60,6 +60,15 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/XAMPP-F0DB4F?style=for-the-badge&logo=xampp&logoColor=black" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
 </p>
 
