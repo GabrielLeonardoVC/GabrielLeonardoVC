@@ -24,8 +24,8 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 - [Python](https://www.python.org/)
 
 ### 🌐 **Front-End**
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ### 🎲 **Banco de Dados**
 - [MySQL](https://www.mysql.com/)
