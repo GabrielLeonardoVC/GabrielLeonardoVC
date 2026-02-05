@@ -95,5 +95,5 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 
 ---
 
-✨ *Obrigado por visitar meu perfil!*  
-🧩 *Cada linha de código é uma nova oportunidade de aprendizado.* 🚀
+🤝*Obrigado por visitar meu perfil!*  
+🧠 *Cada linha de código é uma nova oportunidade de aprendizado.* 🚀
