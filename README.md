@@ -26,7 +26,7 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 ### 🌐 **Front-End**
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript]([https://developer.mozilla.org/pt-BR/docs/Web/CSS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript))
+- [JavaScript]([https://developer.mozilla.org/pt-BR/docs/Web/CSS])
 
 ### 🎲 **Banco de Dados**
 - [MySQL](https://www.mysql.com/)  
