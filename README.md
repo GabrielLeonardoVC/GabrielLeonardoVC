@@ -29,7 +29,14 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 
 ### 🎲 **Banco de Dados**
 - [MySQL](https://www.mysql.com/)  
-- [XAMPP](https://www.apachefriends.org/pt_br/index.html)  
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+
+### 🌐 Desenvolvimento Web
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+- [Python](https://www.python.org/)
+- [MySQL](https://www.mysql.com/)  
+- [C](https://developer.mozilla.org/pt-BR/docs/WebAssembly/Guides/C_to_Wasm)
 
 ### ⚙️ **Ferramentas**
 - [Git](https://git-scm.com/)  
