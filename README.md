@@ -1,127 +1,105 @@
-<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/2ded35ed-4aec-4948-8c71-811c8245399f" />
+<img width="100%" src="https://github.com/user-attachments/assets/2ded35ed-4aec-4948-8c71-811c8245399f" />
 
-# 👋 Olá, eu sou o **Gabriel Leonardo**
+<h1 align="center">👨‍💻 Gabriel Leonardo</h1>
 
-🎓 Estudante do **SESI-SP** e **SENAI-SP**  
-💻 Apaixonado por **tecnologia, desenvolvimento e inovação**  
-🚀 Sempre em busca de **evoluir e aprender coisas novas!**
+<p align="center">
+  Desenvolvedor em formação • Back-End • Web • Mobile • IoT
+</p>
+
+<p align="center">
+  <a href="mailto:galevicn4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5511950755852">
+    <img src="https://img.shields.io/badge/WhatsApp-Falar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Resumo Técnico
+
+- 💻 Back-End: Python (APIs, automação)
+- 🌐 Front-End: HTML, CSS, JavaScript
+- 📱 Mobile: Flutter (Dart)
+- 🗄️ Banco de Dados: MySQL
+- 🔧 Ferramentas: Git, GitHub, VS Code
+- 🔌 IoT: Arduino
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um entusiasta da programação e da resolução de problemas por meio da tecnologia.  
-Atualmente, curso o **Ensino Médio no SESI-SP** e o **Técnico em Desenvolvimento de Sistemas no SENAI-SP**.  
+Estudante do **SESI-SP** e do curso técnico em **Desenvolvimento de Sistemas pelo SENAI-SP**, com foco em desenvolvimento de soluções práticas e eficientes.
 
-✨ Tenho interesse especial por **desenvolvimento web**, **automação com Python** e **projetos colaborativos**.  
-Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como pessoa.  
+Tenho interesse em **Back-End**, **Desenvolvimento Web**, **Mobile com Flutter** e **projetos de automação**.  
+Busco evoluir constantemente através de projetos reais, colaboração e desafios técnicos.
 
 ---
 
-## 💼 Atualmente aprendendo e trabalhando com:
+## 🚀 Stack Tecnológica
 
-### 🐍 **Back-End**
-- [Python](https://www.python.org/)
-- [Xampp](https://www.apachefriends.org/pt_br/index.html)
-- [MySQL](https://www.mysql.com/)
-
-### 🌐 **Front-End**
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-### 🎲 **Banco de Dados**
-- [MySQL](https://www.mysql.com/)  
-- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
-
-### 🌐 Desenvolvimento Web
-- [Dart](https://dart.dev/)
-
-### 💻 **IoT**
-- [Arduino](https://www.arduino.cc/)
-- [Arduino IDE](https://docs.arduino.cc/software/ide/)
-
-### ⚙️ **Ferramentas**
-- [Git](https://git-scm.com/)  
-- [GitHub](https://github.com/)  
-- [VS Code](https://code.visualstudio.com/)
-- [MySQL](https://www.mysql.com/)  
-- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
-- [Arduino](https://www.arduino.cc/)
-- [Notion](https://www.notion.com/)
-- [Google Clasroom](https://classroom.google.com/)
-
-📚 Participando ativamente de **projetos práticos** e **colaborativos** no curso do SENAI, explorando o ciclo completo de desenvolvimento de software.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,dart,flutter,mysql,git,github,vscode,arduino"/>
+</p>
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-  <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  </a>
-  <a href="https://www.arduino.cc/en/software" target="_blank">
-    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  </a>
-  <a href="https://www.notion.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-  <a href="https://classroom.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Classroom-0F9D58?style=for-the-badge&logo=google-classroom&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
-## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeonardoVC&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLeonardoVC&layout=compact&theme=github_dark&hide_border=true" />
-  <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLeonardoVC&theme=github-dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielLeonardoVC&theme=github-dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+ 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeonardoVC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLeonardoVC&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170em" src="https://streak-stats.demolab.com?user=GabrielLeonardoVC&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielLeonardoVC&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 Vamos nos conectar!
+## 🤝 Contato
 
-📧 **Email:** [Email](https://mail.google.com/mail/?view=cm&to=galevicn4@gmail.com)           
-💼 **LinkedIn:** [Gabriel Leonardo](https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/)  
-🌐 **Portfólio / Projetos:** [GitHub Repositórios](https://github.com/GabrielLeonardoVC?tab=repositories)  
-💬 **WhatsApp:** [Fale comigo aqui](https://wa.me/5511950755852?text=Ol%C3%A1%20Gabriel%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20quero%20falar%20sobre%20projetos%21)  
+📧 Email: galevicn4@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/  
+🌐 GitHub: https://github.com/GabrielLeonardoVC  
 
 ---
 
-🤝*Obrigado por visitar meu perfil!*  
-🧠 *Cada linha de código é uma nova oportunidade de aprendizado.* 🚀
+<p align="center">
+  💡 Transformando aprendizado em soluções reais através da tecnologia.
+</p>
