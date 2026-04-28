@@ -35,8 +35,6 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 - [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 
 ### 🌐 Desenvolvimento Web
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 - [Dart](https://dart.dev/)
 
 ### ⚙️ **Ferramentas**
