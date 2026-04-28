@@ -3,7 +3,7 @@
 <h1 align="center">Gabriel Leonardo</h1>
 
 <p align="center">
-  Desenvolvedor em formação • Back-End • Web • Mobile • IoT
+  Desenvolvedor em formação • Back-End • Front-End • Web • Mobile • IoT • Banco de Dados
 </p>
 
 <p align="center">
