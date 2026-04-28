@@ -22,6 +22,8 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 
 ### 🐍 **Back-End**
 - [Python](https://www.python.org/)
+- [Xampp](https://www.apachefriends.org/pt_br/index.html)
+- [MySQL](https://www.mysql.com/)
 
 ### 🌐 **Front-End**
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  
@@ -35,14 +37,21 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 ### 🌐 Desenvolvimento Web
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
-- [Python](https://www.python.org/)
-- [MySQL](https://www.mysql.com/)  
-- [C](https://developer.mozilla.org/pt-BR/docs/WebAssembly/Guides/C_to_Wasm)
+- [Dart](https://dart.dev/)
 
 ### ⚙️ **Ferramentas**
 - [Git](https://git-scm.com/)  
 - [GitHub](https://github.com/)  
 - [VS Code](https://code.visualstudio.com/)
+- [MySQL](https://www.mysql.com/)  
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+- [Arduino](https://www.arduino.cc/)
+- [Notion](https://www.notion.com/)
+- [Google Clasroom](https://classroom.google.com/)
+
+- ### 💻 **IoT**
+- [Arduino](https://www.arduino.cc/)
+- [Arduino IDE](https://docs.arduino.cc/software/ide/)
 
 📚 Participando ativamente de **projetos práticos** e **colaborativos** no curso do SENAI, explorando o ciclo completo de desenvolvimento de software.
 
