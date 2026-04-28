@@ -58,6 +58,36 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  </a>
+  <a href="https://www.arduino.cc/en/software" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  </a>
+  <a href="https://www.notion.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="https://classroom.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Classroom-0F9D58?style=for-the-badge&logo=google-classroom&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
@@ -67,26 +97,10 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-  <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/XAMPP-F0DB4F?style=for-the-badge&logo=xampp&logoColor=black" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 📊 Estatísticas do GitHub
