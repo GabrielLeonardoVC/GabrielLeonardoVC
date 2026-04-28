@@ -35,7 +35,7 @@
 
 Estudante do **SESI-SP** e do curso técnico em **Desenvolvimento de Sistemas pelo SENAI-SP**, com foco em desenvolvimento de soluções práticas e eficientes.
 
-Tenho interesse em **Back-End**, **Desenvolvimento Web**, **Mobile com Flutter** e **projetos de automação**.  
+Tenho interesse em **Back-End**, **Front-End**, **Desenvolvimento Web**, **Mobile com Flutter** e **projetos de automação**.  
 Busco evoluir constantemente através de projetos reais, colaboração e desafios técnicos.
 
 ---
