@@ -97,6 +97,7 @@ Busco evoluir constantemente através de projetos reais, colaboração e desafio
 📧 Email: galevicn4@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/gabriel-leonardo-vicente-cancian-a0793a378/  
 🌐 GitHub: https://github.com/GabrielLeonardoVC  
+📞 WhatsApp: https://wa.me/5511950755852
 
 ---
 
