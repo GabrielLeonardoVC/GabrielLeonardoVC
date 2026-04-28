@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/user-attachments/assets/2ded35ed-4aec-4948-8c71-811c8245399f" />
 
-<h1 align="center">👨‍💻 Gabriel Leonardo</h1>
+<h1 align="center">Gabriel Leonardo</h1>
 
 <p align="center">
   Desenvolvedor em formação • Back-End • Web • Mobile • IoT
