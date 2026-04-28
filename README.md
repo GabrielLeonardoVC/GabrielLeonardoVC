@@ -37,6 +37,10 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 ### 🌐 Desenvolvimento Web
 - [Dart](https://dart.dev/)
 
+### 💻 **IoT**
+- [Arduino](https://www.arduino.cc/)
+- [Arduino IDE](https://docs.arduino.cc/software/ide/)
+
 ### ⚙️ **Ferramentas**
 - [Git](https://git-scm.com/)  
 - [GitHub](https://github.com/)  
@@ -46,10 +50,6 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 - [Arduino](https://www.arduino.cc/)
 - [Notion](https://www.notion.com/)
 - [Google Clasroom](https://classroom.google.com/)
-
-### 💻 **IoT**
-- [Arduino](https://www.arduino.cc/)
-- [Arduino IDE](https://docs.arduino.cc/software/ide/)
 
 📚 Participando ativamente de **projetos práticos** e **colaborativos** no curso do SENAI, explorando o ciclo completo de desenvolvimento de software.
 
