@@ -49,7 +49,7 @@ Gosto de desafios que me fazem crescer — tanto como desenvolvedor quanto como 
 - [Notion](https://www.notion.com/)
 - [Google Clasroom](https://classroom.google.com/)
 
-- ### 💻 **IoT**
+### 💻 **IoT**
 - [Arduino](https://www.arduino.cc/)
 - [Arduino IDE](https://docs.arduino.cc/software/ide/)
 
